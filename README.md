@@ -8,3 +8,5 @@ and so subsequently more images may be added.
 
   - _SDI8040.X3F:  Merrill image that includes a rainbow
   - _SDI8284.X3F:  Quattro image that includes vegetables of various colors
+
+These images are copyright Mark Roden.  They are included so that users can test their conversion code, but are not published into the public domain for any commercial purposes.
